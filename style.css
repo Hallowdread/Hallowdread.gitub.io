@@ -63,6 +63,12 @@ img{
     font-size: 1.1rem;
 }
 
+.main_nav a:hover{
+    color: var(--light);
+    background-color: var(--dark);
+    font-weight: bold;
+}
+
 /* Top Container */
 
 .top_container{
