@@ -5,6 +5,6 @@ I watched the tutorial on how to create this on: https://youtu.be/moBhzSC455o
 
 Only the home page is available at the moment...i'll complete the rest of the pages one day. 
 
-You can clone the code and import on your code editor then run on your local web browser.
+You can clone the code and import on your code editor then run on your local web browser and connected to wifi.
 
 Thank You!!
